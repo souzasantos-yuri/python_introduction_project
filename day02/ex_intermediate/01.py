@@ -10,4 +10,3 @@ elif choice == "sparkling":
     print("It will cost R$ 2.50")
 else:
     print("Choose a valid option")
-
