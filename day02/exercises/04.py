@@ -1,8 +1,7 @@
-# Create a program that verifies if the user belongs to "Bald" family.
+# Create a program that calculates the square root and show the result
 
-family_name = input("Tell me your family surname: ")
+number = int(input("Enter the number to calculate the sqrt: "))
+sqrt = (number ** 0.5)
+sqrt = round(sqrt, 2)
 
-if family_name != "bald":
-    print("You are not a Bald member")
-else:
-    print("You are a Bald member")
+print("Sqrt of", number, "is:", sqrt)

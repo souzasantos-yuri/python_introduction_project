@@ -1,8 +1,6 @@
-# Create a program that verifies if the user belongs to "Bald" family.
+# Create a program that shows double the number inputed by the user
 
-family_name = input("Tell me your family surname: ")
+number = float(input("Enter the number: "))
+result = (2 * number)
 
-if family_name not in ["bald", "silva"]:
-    print(f"You are not a {family_name} member")
-else:
-    print(f"You are a {family_name} member")
+print("Double of", number, "is:", result)
