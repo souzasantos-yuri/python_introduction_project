@@ -21,4 +21,4 @@ compound_interests(interest=0.13, years=4, amount=1000)
 
 # %%
 
-print()
+value = compound_interests(interest=0.13, years=5, amount=1000)
