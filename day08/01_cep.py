@@ -28,7 +28,7 @@ data = []
 
 for i in tqdm(ceps):
     response = requests.get(url.format(cep=i))
-    if response.status_code = 200:
+    if response.status_code == 200:
         data.append(response.json())
 data
 
