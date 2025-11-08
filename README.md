@@ -1,3 +1,3 @@
-# Introduction of Python with Téo Calvo, @ teomewhy.org
+# Introduction of Python @ [teomewhy.org](https://teomewhy.org/)
 
-First time learning python in the right way, with a nice teacher and outside the college environment.
+First time learning python the right way, with a nice teacher and outside the college environment.
