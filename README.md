@@ -1,3 +1,12 @@
 # Introduction of Python @ [teomewhy.org](https://teomewhy.org/)
 
-First time learning python the right way, with a nice teacher and outside the college environment.
+Here is what i have learned with this project:
+
+- Core Python syntax: variables, control flow, functions
+- How to use basic data structures: lists, dictionaries, tuples
+- Organizing your code into modules and packages
+- Reading from and writing to files
+- Error handling with exceptions
+- Writing unit tests to ensure your code works correctly
+- Structuring a project: using both Jupyter notebooks and Python modules
+- Code versioning with github
