@@ -1,4 +1,4 @@
-# Introduction of Python @ [teomewhy.org](https://teomewhy.org/)
+# Reintroduction of Python
 
 Here is what i have learned with this project:
 
